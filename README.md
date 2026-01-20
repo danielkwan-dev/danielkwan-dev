@@ -1,12 +1,9 @@
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/en/6/6e/University_of_Waterloo_seal.svg" alt="UWaterloo Seal" width="120px"/>
-</p>
-<p align="center">
   <a href="https://www.github.com/danielkwan-dev"><img src="name.svg" alt="Daniel Kwan" width="30%"/></a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=C41230&center=true&vCenter=true&width=600&lines=computer+engineering+%40+waterloo;swe+%40+aritzia" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=1500&pause=500&color=C41230&center=true&vCenter=true&width=600&lines=computer+engineering+%40+waterloo;swe+%40+aritzia" alt="Typing SVG" />
 </p>
 
 <p align="center">
