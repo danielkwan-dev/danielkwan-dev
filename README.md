@@ -31,7 +31,7 @@
   <img width="100%" src="line.svg"/>
 </p>
 
-Hi, I'm Daniel, a Computer Engineering student at the University of Waterloo.
+Hey there, I'm Daniel. I've been interested in technology my whole life, whether it be in machine learning, cybersecurity, or software development! 
 
 Feel free to reach out, I'm always open to meeting new people :)
 
