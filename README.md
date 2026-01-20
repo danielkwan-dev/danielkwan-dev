@@ -1,23 +1,31 @@
 <p align="center">
-  <a href="https://www.github.com/danielkwan-dev"><img src="./assets/images/name.svg" alt="Daniel Kwan" width="30%"/></a>
+  <a href="https://www.github.com/danielkwan-dev"><img src="name.svg" alt="Daniel Kwan" width="30%"/></a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=800&color=C41230&center=true&vCenter=true&random=false&width=494&lines=machine+learning;cs+%40+university+of+waterloo;cybersecurity;software engineering" alt="Typing SVG" />
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <br/>
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=black" alt="OpenCV"/>
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <br/>
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
-
 <p align="center">
   &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.instagram.com/danielkwan_/"><img width="32px" alt="Instagram" title="Instagram" src="./assets/images/insta.svg"/></a>
+  <a href="https://www.instagram.com/danielkwan_/"><img width="32px" alt="Instagram" title="Instagram" src="insta.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/daniel-kwan-923071220/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="./assets/images/linkedin.svg"></a>
+  <a href="https://www.linkedin.com/in/daniel-kwan-923071220/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="linkedin.svg"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="mailto:d35kwan@uwaterloo.ca"><img width="32px" alt="Mail" title="Email Me" src="./assets/images/mail.svg"/></a>
-  <img align="right" src="./assets/images/cat.svg" width="30px">
+  <a href="mailto:d35kwan@uwaterloo.ca"><img width="32px" alt="Mail" title="Email Me" src="mail.svg"/></a>
+  <img align="right" src="cat.svg" width="30px">
 </p>
 
 <p align="center">
-  <img width="100%" src="./assets/images/line.svg"/>
+  <img width="100%" src="line.svg"/>
 </p>
 
 Hi, I'm Daniel, a Computer Engineering student at the University of Waterloo.
@@ -26,8 +34,6 @@ Feel free to reach out, I'm always open to meeting new people :)
 
 <br/>
   
-<div><img align="left" src="./assets/images/discord.png" width="50px" /> <pre>dkturbo_</pre></div>
+<div><img align="left" src="discord.png" width="50px" /> <pre>dkturbo_</pre></div>
 
-
-
-![Daniel Kwan](https://github.com/vincent-qc/vincent-qc/blob/main/assets/images/wave.svg)
+![Daniel Kwan](wave.svg)
