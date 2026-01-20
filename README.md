@@ -40,5 +40,10 @@ Feel free to reach out, I'm always open to meeting new people :)
 <br/>
   
 <div><img align="left" src="discord.png" width="50px" /> <pre>dkturbo_</pre></div>
+<br clear="all" />
+<div>
+  <img align="left" src="goose.svg" width="50px" alt="Waterloo Goose" />
+  <pre>d35kwan@uwaterloo.ca</pre>
+</div>
 
 ![Daniel Kwan](wave.svg)
