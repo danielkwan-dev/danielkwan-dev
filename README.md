@@ -21,7 +21,6 @@
   <a href="https://www.linkedin.com/in/daniel-kwan-923071220/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="linkedin.svg"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="mailto:d35kwan@uwaterloo.ca"><img width="32px" alt="Mail" title="Email Me" src="mail.svg"/></a>
-  <img align="right" src="cat.svg" width="30px">
 </p>
 
 <p align="center">
