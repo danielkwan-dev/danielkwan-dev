@@ -31,7 +31,7 @@
   <img width="100%" src="line.svg"/>
 </p>
 
-Hey there, I'm Daniel. I've been interested in technology my whole life, whether it be in machine learning, cybersecurity, or software development! 
+Hey there, I'm Daniel. I grew up in Vancouver, BC and I've always been interested in anything technology related, whether it be in machine learning, cybersecurity, or software development! I've been coding for 6 years and I'm still just as excited by building projects as I was on day one.
 
 Feel free to reach out, I'm always open to meeting new people :)
 
