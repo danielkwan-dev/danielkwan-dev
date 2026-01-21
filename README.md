@@ -54,7 +54,7 @@ Feel free to reach out, I'm always open to meeting new people :)
 
 <div>
   <img align="left" src="discord.png" width="50px" style="padding-right: 15px;" />
-  <pre>dkturbo_</pre>
+  <pre>dkturbo.</pre>
 </div>
 
 <br/>
