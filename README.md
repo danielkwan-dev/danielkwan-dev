@@ -60,7 +60,7 @@ Feel free to reach out, I'm always open to meeting new people :)
 <br/>
 
 <div>
-  <img align="left" src="goose.svg" width="50px" style="padding-right: 15px;" />
+  <img align="left" src="https://upload.wikimedia.org/wikipedia/en/6/6e/University_of_Waterloo_seal.svg" width="50px" style="padding-right: 15px;" />
   <pre>d35kwan@uwaterloo.ca</pre>
 </div>
 
