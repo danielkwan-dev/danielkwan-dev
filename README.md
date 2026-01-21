@@ -3,10 +3,6 @@
 </p>
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/en/6/6e/University_of_Waterloo_seal.svg" alt="UWaterloo Seal" width="100px"/>
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=1500&pause=500&color=C41230&center=true&vCenter=true&width=600&lines=computer+engineering+%40+waterloo;swe+%40+aritzia" alt="Typing SVG" />
 </p>
 
