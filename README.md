@@ -50,6 +50,8 @@ I've been coding for 6 years and I'm still just as excited by building projects 
 
 Feel free to reach out, I'm always open to meeting new people :)
 
+My website: https://daniel.uwce.ca/
+
 <br/>
 
 <div>
