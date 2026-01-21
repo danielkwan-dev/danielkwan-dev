@@ -29,15 +29,12 @@
 </p>
 
 <p align="center">
-  <a href="https://www.instagram.com/danielkwan_/" style="text-decoration: none;">
-    <img width="32px" alt="Instagram" src="insta.svg" style="margin-right: 20px;"/>
-  </a>
-  <a href="https://www.linkedin.com/in/daniel-kwan-923071220/" style="text-decoration: none;">
-    <img width="32px" alt="LinkedIn" src="linkedin.svg" style="margin-right: 20px;"/>
-  </a>
-  <a href="mailto:d35kwan@uwaterloo.ca" style="text-decoration: none;">
-    <img width="32px" alt="Mail" src="mail.svg"/>
-  </a>
+  <a href="https://www.instagram.com/danielkwan_/"><img width="32px" alt="Instagram" src="insta.svg"/></a>
+  &emsp;&emsp;&emsp;
+  <a href="https://www.linkedin.com/in/daniel-kwan-923071220/"><img width="32px" alt="LinkedIn" src="linkedin.svg"/></a>
+  &emsp;&emsp;&emsp;
+  <a href="mailto:d35kwan@uwaterloo.ca"><img width="32px" alt="Mail" src="mail.svg"/></a>
+</p>
 </p>
 
 <p align="center">
