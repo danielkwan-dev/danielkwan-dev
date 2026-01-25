@@ -46,7 +46,7 @@
 
 Hey there, I'm Daniel - a Computer Engineering Undergraduate at uWaterloo. I grew up in Vancouver, BC and I've always been interested in anything technology related, whether it be in machine learning, cybersecurity, or fullstack develpoment! 
 
-I've been coding for 6 years and I'm still just as excited by building projects as I was on day one. I am currently working on building machine learning models from scratch (linear regression, cnn, random forest, etc.)
+I've been coding for over 6 years and I'm still just as excited by building projects as I was on day one. I am currently working on building machine learning models from scratch (linear regression, cnn, random forest, etc.)
 
 Feel free to reach out, I'm always open to meeting new people :)
 
