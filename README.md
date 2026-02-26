@@ -45,9 +45,9 @@
   <img width="100%" src="line.svg"/>
 </p>
 
-Hey there, I'm Daniel - a Computer Engineering Undergraduate at uWaterloo. I grew up in Vancouver, BC and I've always been interested in everything technology related, especially machine learning and  cybersecurity! 
+Hey there, I'm Daniel! I grew up in Vancouver, BC and I've always been interested in everything technology related, especially machine learning and cybersecurity! 
 
-I've been coding for over 6 years now and I'm still just as excited by building projects as I was on day one. Currently, I'm working on computer vision projects that actually help others (e.g. check out my  golden age and asl translator repositories) using different ml models.
+I've been coding for over 6 years now and I'm still just as excited by building projects as I was on day one. Currently, I'm working on computer vision projects that actually help others (e.g. check out my golden age and asl translator repositories) using different ml models.
 
 Feel free to reach out, I'm always open to meeting new people :)
 
