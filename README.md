@@ -51,7 +51,7 @@ I've been coding for over 6 years now and I'm still just as excited by building 
 
 Feel free to reach out, I'm always happy talking to new people :)
 
-Personal Website: https://daniel.uwce.ca/
+Check out my portfolio!: https://daniel.uwce.ca/
 
 <br/>
 
