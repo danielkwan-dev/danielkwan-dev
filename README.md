@@ -45,13 +45,12 @@
   <img width="100%" src="line.svg"/>
 </p>
 
-Hey there, I'm Daniel! I grew up in Vancouver, BC and I've always been interested in how technology can help our world, especially in machine learning and cybersecurity! 
+Hey there, I'm Daniel! I grew up in Vancouver, BC and I've always been interested in how technology can help our world, especially in machine learning and cybersecurity. 
 
-I've been coding for over 6 years now and I'm still just as excited by building projects as I was on day one. Currently, I'm working on computer vision projects (e.g. check out my golden age and signcli repositories) using different ml models.
+I've been coding for over 6 years now and I'm still just as excited coming up with a physical systems and shipping it into real code. Currently, I'm working on computer vision projects (e.g. check out my golden age and signcli repositories) using various ml models.
 
 Feel free to reach out, I'm always excited talking to new people :)
-
-Check out my personal website!: https://daniel.uwce.ca/
+https://daniel.uwce.ca/
 
 <br/>
 
