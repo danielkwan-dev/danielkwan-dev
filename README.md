@@ -49,7 +49,6 @@ Hey there, I'm Daniel! I grew up in Vancouver, BC and I've always been intereste
 
 I've been coding for over 6 years now and I'm still just as excited starting with physical systems and shipping it into working and maintainable code. Currently, I'm diving into computer vision projects (check out my golden age and signcli repositories) using various ml models.
 
-Feel free to reach out, I'm always excited talking to new people :)
 https://daniel.uwce.ca/
 
 <br/>
