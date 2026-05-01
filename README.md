@@ -43,8 +43,8 @@ Starting with physical systems and shipping it into working and maintainable cod
 <br/>
 
 <div>
-  <img align="left" src="discord.png" width="50px" style="padding-right: 15px;" />
-  <pre>dkturbo.</pre>
+  <img align="left" src="favicon.jpg" width="50px" style="padding-right: 15px;" />
+  <pre>https://daniel.uwce.ca/</pre>
 </div>
 
 <br/>
