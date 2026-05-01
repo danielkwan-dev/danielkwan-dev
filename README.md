@@ -39,7 +39,6 @@
 </p>
 
 Starting with physical systems and shipping it into working and maintainable code.
-https://daniel.uwce.ca/
 
 <br/>
 
