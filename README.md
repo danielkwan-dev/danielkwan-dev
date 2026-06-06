@@ -38,7 +38,7 @@
   <img width="100%" src="line.svg"/>
 </p>
 
-Starting with physical systems and shipping it into working and maintainable code.
+Starting with physical systems and shipping it into working and maintainable code. Beyond programming, I love going to the nature, exercising, and electric guitar.
 
 <br/>
 
