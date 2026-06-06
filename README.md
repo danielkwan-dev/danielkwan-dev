@@ -38,7 +38,10 @@
   <img width="100%" src="line.svg"/>
 </p>
 
-Starting with physical systems and shipping it into working and maintainable code. Beyond programming, I love going to the nature, exercising, and electric guitar.
+Hey there, I'm Daniel. I'm currently a student at the University of Waterloo. Feel free to check out some of my recent projects below! 
+<br/>
+</p>
+Beyond programming, I love going to the nature, exercising, and electric guitar.
 
 <br/>
 
