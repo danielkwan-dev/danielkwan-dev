@@ -48,7 +48,7 @@ Beyond programming, I love going to the nature, exercising, and electric guitar!
 
 <div>
   <img align="left" src="favicon.jpg" width="50px" style="padding-right: 15px;" />
-  <pre>https://daniel.uwce.ca/</pre>
+  <pre>https://daniel.uwce.ca/pre>
 </div>
 
 <br/>
