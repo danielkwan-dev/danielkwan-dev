@@ -38,7 +38,7 @@
   <img width="100%" src="line.svg"/>
 </p>
 
-Hey there, I'm Daniel. I'm currently a student at the University of Waterloo. Feel free to check out some of my recent projects below! 
+Hey there, I'm Daniel. I'm currently a Computer Engineering student at the University of Waterloo. Feel free to check out some of my recent projects below! 
 <br/>
 </p>
 Beyond programming, I love going to the nature, exercising, and electric guitar! 
