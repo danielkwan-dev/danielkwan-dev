@@ -47,15 +47,14 @@ Beyond programming, I love going to the nature, exercising, and electric guitar!
 <br/>
 
 <div>
-  <img align="left" src="favicon.jpg" width="50px" style="padding-right: 15px;" />
-  <pre>https://daniel.uwce.ca<pre>
+  <img align="left" src="favicon.jpg" width="50px" />
+  <pre>https://daniel.uwce.ca</pre>
 </div>
-
-<br/>
-  <img align="left" src="https://upload.wikimedia.org/wikipedia/en/6/6e/University_of_Waterloo_seal.svg" width="50px" style="padding-right: 15px;" />
+<br clear="all" />
+<div>
+  <img align="left" src="https://upload.wikimedia.org/wikipedia/en/6/6e/University_of_Waterloo_seal.svg" width="50px" />
   <pre>d35kwan@uwaterloo.ca</pre>
 </div>
-
 <br clear="all" />
 
 ![Daniel Kwan](wave.svg)
