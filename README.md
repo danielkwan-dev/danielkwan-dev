@@ -31,15 +31,6 @@
 </p>
 
 <p align="center">
-  <a href="https://www.instagram.com/danielkwan_/"><img width="32px" alt="Instagram" src="insta.svg"/></a>
-  &emsp;&emsp;&emsp;
-  <a href="https://www.linkedin.com/in/daniel-kwan-923071220/"><img width="32px" alt="LinkedIn" src="linkedin.svg"/></a>
-  &emsp;&emsp;&emsp;
-  <a href="mailto:d35kwan@uwaterloo.ca"><img width="32px" alt="Mail" src="mail.svg"/></a>
-</p>
-</p>
-
-<p align="center">
   <img width="100%" src="line.svg"/>
 </p>
 
