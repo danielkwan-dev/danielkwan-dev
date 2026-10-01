@@ -31,6 +31,9 @@
 </p>
 
 <p align="center">
+  <br/>
+  <img src="https://img.shields.io/badge/Profile%20views-14523-blue?style=for-the-badge" alt="Profile Views"/>
+  <br/><br/>
   <img width="100%" src="line.svg"/>
 </p>
 
