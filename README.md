@@ -36,7 +36,7 @@
   <img width="100%" src="line.svg"/>
 </p>
 
-Hey there, I'm Daniel. I'm currently a <a href="https://uwaterloo.ca/future-students/programs/computer-engineering">Computer Engineering student at the University of Waterloo</a>. Feel free to check out some of my recent projects below! 
+Hey there, I'm <a href="https://daniel.uwce.ca">Daniel</a>. I'm currently a <a href="https://uwaterloo.ca/future-students/programs/computer-engineering">Computer Engineering student at the University of Waterloo</a>. Feel free to check out some of my recent projects below! 
 <br/>
 </p>
 Beyond coding, I love the outdoors, movies, music and electric guitar! 
