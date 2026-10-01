@@ -28,8 +28,8 @@
   <img src="https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
-  <br/>
-  <img src="https://img.shields.io/badge/views-14523-222222?style=for-the-badge" alt="Profile Views"/>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Profile%20views-14,352-007EC6?style=for-the-badge" alt="Profile Views"/>
 </p>
 
 <p align="center">
