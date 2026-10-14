@@ -34,15 +34,18 @@
 
 <p align="center">
   <img width="100%" src="line.svg"/>
+<p>
+  Hi, I'm <a href="https://daniel.uwce.ca">Daniel</a>, a <a href="https://uwaterloo.ca/future-students/programs/computer-engineering">Computer Engineering student at the University of Waterloo</a>.
 </p>
-
-Hey there, I'm <a href="https://daniel.uwce.ca">Daniel</a>. I'm currently a <a href="https://uwaterloo.ca/future-students/programs/computer-engineering">Computer Engineering student at the University of Waterloo</a>. Feel free to check out some of my recent projects below! 
-<br/>
+<p>
+  This winter, I'm working as a Machine Learning Engineer at <strong>Hubhead</strong>.
 </p>
-Beyond coding, I love the outdoors, movies, music and electric guitar! 
-
-<br/>
-<br/>
+<p>
+  Previously, I worked as a Software Developer at <strong>Aritzia</strong>.
+</p>
+<p>
+  Feel free to check out some of my recent projects below!
+</p>
 
 <div>
   <img align="left" src="favicon.jpg" width="50px" />
