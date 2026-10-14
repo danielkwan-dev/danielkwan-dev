@@ -35,13 +35,13 @@
 <p align="center">
   <img width="100%" src="line.svg"/>
 <p>
-  Hi, I'm <a href="https://daniel.uwce.ca">Daniel</a>, a <a href="https://uwaterloo.ca/future-students/programs/computer-engineering">Computer Engineering student at the University of Waterloo</a>.
+  Hey there! I'm <a href="https://daniel.uwce.ca">Daniel</a>, a <a href="https://uwaterloo.ca/future-students/programs/computer-engineering">Computer Engineering student at the University of Waterloo</a>.
 </p>
 <p>
   This winter, I'm working as a Machine Learning Engineer at <strong>Hubhead</strong>.
 </p>
 <p>
-  Previously, I worked as a Software Developer at <strong>Aritzia</strong>.
+  Previously, I also worked as a Software Developer at <strong>Aritzia</strong>.
 </p>
 <p>
   Feel free to check out some of my recent projects below!
