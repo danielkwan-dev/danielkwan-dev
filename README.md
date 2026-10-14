@@ -47,15 +47,4 @@
   Feel free to check out some of my recent projects below!
 </p>
 
-<div>
-  <img align="left" src="favicon.jpg" width="50px" />
-  <pre>https://daniel.uwce.ca</pre>
-</div>
-<br clear="all" />
-<div>
-  <img align="left" src="https://upload.wikimedia.org/wikipedia/en/6/6e/University_of_Waterloo_seal.svg" width="50px" />
-  <pre>d35kwan@uwaterloo.ca</pre>
-</div>
-<br clear="all" />
-
 ![Daniel Kwan](wave.svg)
